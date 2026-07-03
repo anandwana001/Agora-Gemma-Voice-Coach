@@ -19,7 +19,7 @@ Agora x Gemma Voice Coach is a local Next.js demo that combines:
 
 Source of truth:
 
-- `/Users/akshaynandwana/Desktop/agent-quickstart-nextjs`
+- the reference Agora Next.js quickstart repo used during development
 
 Copied or adapted from the reference repo:
 
